@@ -1,4 +1,27 @@
-### Hi there 👋
+
+# 專案列表
+
+## [JAVA SE 筆記](#)
+
+## [JAVA EE 筆記](#)
+
+## [JAVA EE 專案一 簡易學生管理系統](#)
+
+## [JAVA EE 專案二 商店](#)
+
+## [JS 小型專案集](#)
+
+
+
+
+
+
+
+
+
+
+
+<!--### Hi there 👋
 
 <!--
 **EtudeOp25No12/EtudeOp25No12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# 專案列表
-
-## [JAVA SE 筆記](#)
-
-## [JAVA EE 筆記](#)
-
-## [JAVA EE 專案一 簡易學生管理系統](#)
-
-## [JAVA EE 專案二 商店](#)
-
-## [JS 小型專案集](#)
